@@ -1,6 +1,6 @@
 {
   "name": "ixocreate/log",
-  "description": "Log library for IXOCREATE",
+  "description": "IXOCREATE Log Library",
   "license": "MIT",
   "type": "library",
   "authors": [
@@ -11,13 +11,12 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": "^7.1",
-    "ixocreate/log-contract": "dev-develop"
+    "php": "^7.1"
   },
   "require-dev": {
     "ixocreate/coding-standard": "^1.0",
-    "phpunit/phpunit": "^6.0.6",
-    "php-coveralls/php-coveralls": "^2.1"
+    "php-coveralls/php-coveralls": "^2.1",
+    "phpunit/phpunit": "^7.0"
   },
   "autoload": {
     "psr-4": {

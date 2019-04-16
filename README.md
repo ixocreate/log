@@ -1,4 +1,4 @@
-# IXOCREATE log
+# IXOCREATE Log Library
 
 [![Build Status](https://travis-ci.com/ixocreate/log.svg?branch=master)](https://travis-ci.com/ixocreate/log)
 [![Coverage Status](https://coveralls.io/repos/github/ixocreate/log/badge.svg?branch=develop)](https://coveralls.io/github/ixocreate/log?branch=develop)
