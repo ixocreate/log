@@ -1,7 +1,7 @@
 # IXOCREATE Log Library
 
 [![Build Status](https://travis-ci.com/ixocreate/log.svg?branch=master)](https://travis-ci.com/ixocreate/log)
-[![Coverage Status](https://coveralls.io/repos/github/ixocreate/log/badge.svg?branch=develop)](https://coveralls.io/github/ixocreate/log?branch=develop)
+[![Coverage Status](https://coveralls.io/repos/github/ixocreate/log/badge.svg?branch=master)](https://coveralls.io/github/ixocreate/log?branch=master)
 [![Packagist](https://img.shields.io/packagist/v/ixocreate/log.svg)](https://packagist.org/packages/ixocreate/log)
 [![PHP Version](https://img.shields.io/packagist/php-v/ixocreate/log.svg)](https://packagist.org/packages/ixocreate/log)
 [![License](https://img.shields.io/github/license/ixocreate/log.svg)](LICENSE)
